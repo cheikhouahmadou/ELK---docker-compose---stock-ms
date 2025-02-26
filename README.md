@@ -13,6 +13,11 @@ demarrage container docker
 
 ![N02](https://github.com/user-attachments/assets/f940ba7e-de44-4735-bedb-984c113634b9)
 
+J'ai rencontré des difficultés  avec le projet 'stock-ms.
+
+
+projet ELK intégrant une application Spring Boot. 
+
 
 ELk avec projet spring-boot-elk 
 
